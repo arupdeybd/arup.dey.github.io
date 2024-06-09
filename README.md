@@ -1,2 +1,3 @@
 ### Education
-* PhD in Industrial Engineering
+* PhD in Industrial and Manufacturing Engineering
+* MS in Industrial Engineering

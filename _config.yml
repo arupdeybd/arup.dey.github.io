@@ -3,8 +3,7 @@ logo: "image/arup1.jpg"
 #description: text below image
 show_download: false
 
-# Custom settings
-location: "San Francisco, USA"
+location: "New Mexico, USA"
 
 theme: jekyll-theme-minimal
 

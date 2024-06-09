@@ -1,2 +1,2 @@
 ### Education
-PhD in Industrial Engineering
+* PhD in Industrial Engineering

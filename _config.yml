@@ -3,3 +3,9 @@ logo: "image/Arup.jpg"
 #description: text below image
 show_download: false
 theme: jekyll-theme-minimal
+
+
+git add _config.yml assets/images/logo.png
+git commit -m "Add custom logo"
+git push origin main
+

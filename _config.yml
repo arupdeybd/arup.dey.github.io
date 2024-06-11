@@ -3,8 +3,8 @@ logo: "image/arup1.jpg"
 #location: "New Mexico, USA"
 #description: text below image
 show_download: false
-email: ipe.arup@gmail.com
-
+#email: ipe.arup@gmail.com
+twitter_username: jekyllrb
 
 theme: jekyll-theme-minimal
 

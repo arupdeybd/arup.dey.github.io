@@ -1,9 +1,9 @@
 title: Arup Dey
 logo: "image/arup1.jpg"
-location: "New Mexico, USA"
+#location: "New Mexico, USA"
 #description: text below image
 show_download: false
-#email: "ipe.arup@gmail.com"
+email: ipe.arup@gmail.com
 
 
 theme: jekyll-theme-minimal
